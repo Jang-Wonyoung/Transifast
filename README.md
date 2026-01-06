@@ -1,2 +1,2 @@
 # Transifast
-Calculadora de tarifass de envío
+Calculadora de tarifas de envío
